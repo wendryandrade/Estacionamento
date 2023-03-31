@@ -21,7 +21,7 @@ O estacionamento possui vagas para motos, carros e vans.
 
 **Enum** 
 
-    TipoVagaVeiculo: Moto, Carro e Van.`
+    TipoVagaVeiculo: Moto, Carro e Van
 
 ### Funcionalidades
 
