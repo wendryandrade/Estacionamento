@@ -8,7 +8,7 @@ Este projeto foi desenvolvido em C# utilizando os princípios de POO.
 
 **Classes**  
 
-    Estacionamento: Guid Id, List< DivisaoVagas > DivisaoVagas
+    Estacionamento: Guid Id, List<DivisaoVagas> DivisaoVagas
     DivisaoVagas: Guid Id, List<Vaga> Vagas, TipoVagaVeiculo TipoVagaVeiculo, int QtdVagasMax
     Vaga: Guid Id, Veiculo Veiculo
     Veiculo: Guid Id, TipoVagaVeiculo TipoVagaVeiculo
