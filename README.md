@@ -4,7 +4,7 @@
 
 ### Aplicação
 
-Este projeto foi desenvolvido em C# utilizando os princípios de POO.
+Este projeto Estacionamento foi desenvolvido em C# utilizando os princípios de POO.
 
 **Classes**  
 
