@@ -6,6 +6,12 @@
 
 Este projeto Estacionamento foi desenvolvido em C# utilizando os princípios de POO.
 
+O estacionamento possui vagas para motos, carros e vans. 
+
+- Moto pode estacionar em qualquer vaga
+- Carro pode estacionar apenas em vaga para carro ou van
+- Van pode estacionar em vaga para van ou carro, mas ocupará 3 vagas para carro
+
 **Classes**  
 
     Estacionamento: Guid Id, List<DivisaoVagas> DivisaoVagas
